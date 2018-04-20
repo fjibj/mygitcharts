@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  redis:
+  - appVersion: 4.0.9
+    created: 2018-04-21T00:24:51.874335072+08:00
+    description: Open source, advanced key-value store. It is often referred to as
+      a data structure server since keys can contain strings, hashes, lists, sets
+      and sorted sets.
+    digest: 229982f8ea80f5d7614d06902c0d6d31653d604b5c269f355b340fb3b5939dc9
+    engine: gotpl
+    home: http://redis.io/
+    icon: https://bitnami.com/assets/stacks/redis/img/redis-stack-220x234.png
+    keywords:
+    - redis
+    - keyvalue
+    - database
+    maintainers:
+    - email: containers@bitnami.com
+      name: bitnami-bot
+    name: redis
+    sources:
+    - https://github.com/bitnami/bitnami-docker-redis
+    urls:
+    - https://fjibj.github.io/mygitcharts/redis-1.1.21.tgz
+    version: 1.1.21
+generated: 2018-04-21T00:24:51.872702195+08:00
